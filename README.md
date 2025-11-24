@@ -3,7 +3,7 @@ This is my second PCB design created using KiCad. It’s a beginner-friendly pro
 
 <img width="1074" height="703" alt="image" src="https://github.com/user-attachments/assets/ea3b23ff-f2ab-4104-8285-6eced4e68343" />
 
-<img width="1074" height="704" alt="image" src="https://github.com/user-attachments/assets/edd1f1f1-4b8c-4c06-9bbe-5ae010a0e7bb" />
+<img width="1074" height="703" alt="image" src="https://github.com/user-attachments/assets/963b7ef2-8ff4-48eb-820a-0d8c47f2ab8a" />
 
 <img width="1074" height="703" alt="image" src="https://github.com/user-attachments/assets/8ef83529-0f4b-4df0-b6a8-87dc2d3900b7" />
 
