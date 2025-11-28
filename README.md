@@ -34,7 +34,7 @@ This is my second PCB design created using KiCad. It’s a beginner-friendly pro
 • Pin Headers
 
 ### Characteristics:
-• Copper on top layer
+• Copper on top and bottom layer
 
 • Through-hole components for easy soldering
 
